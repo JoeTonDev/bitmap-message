@@ -1,1 +1,1 @@
-A Python script to display bitmap message.
+A Python script to display bitmap messages.
